@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hey, I'm Akshit Anand👋🏻</h1>
 
 <!--
 **akanand03/akanand03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
