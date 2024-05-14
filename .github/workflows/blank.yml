@@ -20,7 +20,7 @@ jobs:
         run: npm install spotify-web-api-node@^5.0.0
 
       - name: Fetch currently playing song
-        run: node fetch-spotify.js
+        run: node .github/workflows/fetch-spotify.js  # Adjust the path accordingly
 
       - name: Commit and push changes
         run: |
