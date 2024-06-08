@@ -1,6 +1,5 @@
 ![banner](https://github.com/akanand03/DSA-/assets/94638561/6cbb820c-b999-46c7-8268-88f0acc8536b)
 
-
 <h1 align="center">
   Hey, I'm <a href="https://github.com/akanand03" style="color: #0a66c2; text-decoration: none;">Akshit</a>! 👋
 </h1>
@@ -12,12 +11,22 @@
 <hr>
 
 <h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-bottom: 20px;">🎓 About Me</h2>
-<p align="justify" style="font-size: 16px; font-family: 'Arial', sans-serif; color: #333;">
-  I'm a Data Science enthusiast passionate about Machine Learning and AI.
-</p>
 
-<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🛠️ My Tech Stack</h2>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<table align="center">
+  <tr>
+    <td>
+      <p align="justify" style="font-size: 16px; font-family: 'Arial', sans-serif; color: #333;">
+        Passionate about <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong>. I enjoy transforming raw data into actionable insights using <strong>Python</strong>, <strong>TensorFlow</strong>, and <strong>scikit-learn</strong>.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" alt="Coding GIF" width="300">
+    </td>
+  </tr>
+</table>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🛠️ My Tech Toolkit</h2>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
   <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" />
@@ -66,7 +75,7 @@
   </tr>
 </table>
 
-<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">📫 Connect with Me</h2>
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight:bold; margin-top: 20px;">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
