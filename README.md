@@ -1,1 +1,91 @@
+![banner](https://github.com/akanand03/DSA-/assets/94638561/6cbb820c-b999-46c7-8268-88f0acc8536b)
 
+<h1 align="center">
+  Hey, I'm <a href="https://github.com/akanand03" style="color: #0a66c2; text-decoration: none;">Akshit</a>! 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&color=0077B5&center=true&vCenter=true&width=440&height=45&lines=Data+Science+Enthusiast;Transforming+Data+into+Decisions" alt="Typing SVG">
+</p>
+
+<hr>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-bottom: 20px;">🎓 About Me</h2>
+<p align="justify" style="font-size: 16px; font-family: 'Arial', sans-serif; color: #333;">
+  I'm a Data Science student at <b>NIIT University</b>, diving deep into data to unveil insights and drive innovations with Machine Learning and AI
+</p>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🛠️ My Tech Stack</h2>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scipy&theme=dark" alt="SciPy" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=keras&theme=dark" alt="Keras" />
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn" />
+  <img src="https://skillicons.dev/icons?i=plotly&theme=dark" alt="Plotly" />
+  <img src="https://skillicons.dev/icons?i=tableau&theme=dark" alt="Tableau" />
+  <img src="https://skillicons.dev/icons?i=spark&theme=dark" alt="Apache Spark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+</p>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🚀 My Projects</h2>
+<table width="100%" cellspacing="10" cellpadding="10">
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(145deg, #E0F7FA, #B2EBF2); border: 2px solid #00796B; border-radius: 8px; text-align: center;">
+      <h3 style="color: #00796B; font-size: 22px; font-family: 'Arial', sans-serif;">👁️ Automatic Detection of Macular Edema using Color Fundus Images</h3>
+      <p style="text-align: justify; font-family: 'Arial', sans-serif; color: #004D40;">
+        Engineered a CNN model incorporating depthwise convolution, global average pooling (GAP), and advanced TensorFlow and Keras libraries to enhance diagnostic accuracy in detecting macular edema from color fundus images, significantly improving patient outcomes in ophthalmology.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,scipy&size=48&theme=light" alt="Tech Stack: TensorFlow, Keras, Python, NumPy, SciPy" style="width: 48px;" />
+      </p>
+    </td>
+    <td style="padding: 20px; background: linear-gradient(145deg, #FFF3E0, #FFE0B2); border: 2px solid #E65100; border-radius: 8px; text-align: center;">
+      <h3 style="color: #E65100; font-size: 22px; font-family: 'Arial', sans-serif;">🛒 Deal Dazzle</h3>
+      <p style="text-align: justify; font-family: 'Arial', sans-serif; color: #BF360C;">
+        Spearheaded 'Deal Dazzle', leveraging the MERN stack to transform e-commerce by introducing a local deal finder, integrating OAuth for seamless authentication, and harnessing robust Node.js, React, MongoDB, AWS, and Express frameworks.
+      </p>
+      <p align="center">
+        <a href="https://github.com/akanand03/Deal_Dazzle_">
+          <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,express&size=48&theme=light" alt="Tech Stack: React, Node.js, MongoDB, AWS, Express" style="width: 48px;" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:akshitanand003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">⚡ Fun Fact</h2>
+<p align="center">
+  I once data-mined my entire music playlist to determine the pattern of my music taste over time!
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akanand03&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanand03&layout=compact&theme=dark" alt="Top Languages">
+</p>
