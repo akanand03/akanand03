@@ -26,28 +26,10 @@
 </table>
 
 <h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🛠️ My Tech Toolkit</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=scipy&theme=dark" alt="SciPy" />
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=keras&theme=dark" alt="Keras" />
-  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn" />
-  <img src="https://skillicons.dev/icons?i=plotly&theme=dark" alt="Plotly" />
-  <img src="https://skillicons.dev/icons?i=tableau&theme=dark" alt="Tableau" />
-  <img src="https://skillicons.dev/icons?i=spark&theme=dark" alt="Apache Spark" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
-</p>
+
+<div align="center" style="overflow-x: auto;">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pandas,numpy,scipy,sklearn,tensorflow,keras,matplotlib,seaborn,plotly,tableau,spark,hadoop,bigquery,databricks,sql,postgres,mysql,mongodb,react,nodejs,express,aws,jupyter,anaconda,git,vscode&theme=dark" alt="Tech Stack" style="width: auto;">
+</div>
 
 <h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🚀 My Projects</h2>
 <table width="100%" cellspacing="10" cellpadding="10">
