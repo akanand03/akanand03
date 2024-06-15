@@ -1,5 +1,4 @@
-[![banner](https://github.com/akanand03/DSA-/assets/94638561/6cbb820c-b999-46c7-8268-88f0acc8536b)
-](https://github.com/akanand03/akanand03/blob/a6634f6ce34f42110c3b1e21485dc40a932a1a1b/banner.jpeg)
+![banner](https://raw.githubusercontent.com/akanand03/akanand03/a6634f6ce34f42110c3b1e21485dc40a932a1a1b/banner.jpeg)
 
 
 
