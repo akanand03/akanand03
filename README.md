@@ -1,4 +1,7 @@
-![banner](https://github.com/akanand03/DSA-/assets/94638561/6cbb820c-b999-46c7-8268-88f0acc8536b)
+[![banner](https://github.com/akanand03/DSA-/assets/94638561/6cbb820c-b999-46c7-8268-88f0acc8536b)
+](https://github.com/akanand03/akanand03/blob/a6634f6ce34f42110c3b1e21485dc40a932a1a1b/banner.jpeg)
+
+
 
 <h1 align="center">
   Hey, I'm <a href="https://github.com/akanand03" style="color: #0a66c2; text-decoration: none;">Akshit</a>! 👋
