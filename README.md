@@ -1,13 +1,11 @@
 ![banner](https://raw.githubusercontent.com/akanand03/akanand03/a6634f6ce34f42110c3b1e21485dc40a932a1a1b/banner.jpeg)
 
-
-
 <h1 align="center">
   Hey, I'm <a href="https://github.com/akanand03" style="color: #0a66c2; text-decoration: none;">Akshit</a>! 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=0077B5&center=true&vCenter=true&width=440&height=45&lines=Data+Science+Enthusiast;Transforming+Data+into+Decisions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=🚀+Innovating+with+Data+Science;📊+Transforming+Data+into+Insights;💡+Machine+Learning+Enthusiast;🌟+AI+Driven+Solutions;🔍+Data+Analysis+Expert" alt="Typing SVG">
 </p>
 
 <hr>
@@ -33,33 +31,19 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,pandas,numpy,scipy,sklearn,tensorflow,keras,matplotlib,seaborn,plotly,tableau,spark,hadoop,bigquery,databricks,sql,postgres,mysql,mongodb,react,nodejs,express,aws,jupyter,anaconda,git,vscode&theme=dark" alt="Tech Stack" style="width: auto;">
 </div>
 
-<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🚀 My Projects</h2>
-<table width="100%" cellspacing="10" cellpadding="10">
-  <tr>
-    <td style="padding: 20px; background: linear-gradient(145deg, #E0F7FA, #B2EBF2); border: 2px solid #00796B; border-radius: 8px; text-align: center;">
-      <h3 style="color: #00796B; font-size: 22px; font-family: 'Arial', sans-serif;">👁️ Automatic Detection of Macular Edema using Color Fundus Images</h3>
-      <p style="text-align: justify; font-family: 'Arial', sans-serif; color: #004D40;">
-        Developed a CNN model to detect macular edema from color fundus images using TensorFlow and Keras, enhancing diagnostic accuracy in ophthalmology.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,keras,python,numpy,scipy&size=48&theme=light" alt="Tech Stack: TensorFlow, Keras, Python, NumPy, SciPy" style="width: 48px;" />
-      </p>
-    </td>
-    <td style="padding: 20px; background: linear-gradient(145deg, #FFF3E0, #FFE0B2); border: 2px solid #E65100; border-radius: 8px; text-align: center;">
-      <h3 style="color: #E65100; font-size: 22px; font-family: 'Arial', sans-serif;">🛒 Deal Dazzle</h3>
-      <p style="text-align: justify; font-family: 'Arial', sans-serif; color: #BF360C;">
-        Built 'Deal Dazzle', a local deal finder using the MERN stack with OAuth integration, optimizing e-commerce experiences.
-      </p>
-      <p align="center">
-        <a href="https://github.com/akanand03/Deal_Dazzle_">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,express&size=48&theme=light" alt="Tech Stack: React, Node.js, MongoDB, AWS, Express" style="width: 48px;" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">🌟 Top Repositories</h2>
 
-<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight:bold; margin-top: 20px;">📫 Connect with Me</h2>
+<div align="center">
+  <a href="https://github.com/akanand03/Deal_Dazzle_" style="margin-right: 10px;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Deal_Dazzle_&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/akanand03/Arrhythmia_Classification" style="margin-left: 10px;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Arrhythmia_Classification&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br />
+
+<h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -70,7 +54,7 @@
 </p>
 
 <h2 align="center" style="color: #2E8BC0; font-size: 28px; font-weight: bold; margin-top: 20px;">⚡ Fun Fact</h2>
-<p align="center">
+<p align="center" style="font-size: 16px; font-family: 'Arial', sans-serif; color: #333;">
   I once data-mined my entire music playlist to determine the pattern of my music taste over time!
 </p>
 
