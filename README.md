@@ -34,7 +34,7 @@
 <h2 align="center">🌟 Top Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/akanand03/Deal_Dazzle_">
+  <a href="https://github.com/akanand03/Deal_Dazzle">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Deal_Dazzle&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
   </a>
   <a href="https://github.com/akanand03/Arrhythmia_Classification">
