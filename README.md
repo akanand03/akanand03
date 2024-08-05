@@ -40,8 +40,14 @@
   <a href="https://github.com/akanand03/Arrhythmia_Classification">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Arrhythmia_Classification&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
   </a>
+  <a href="https://github.com/akanand03/EDA">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=EDA&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
+  </a>
+  <a href="https://github.com/akanand03/Flight-price-prediction-">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Flight-price-prediction-&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
+  </a>
 </p>
-<br />
+
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/">
