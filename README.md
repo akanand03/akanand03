@@ -46,7 +46,11 @@
   <a href="https://github.com/akanand03/Flight-price-prediction-">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Flight-price-prediction-&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
   </a>
+  <a href="https://github.com/akanand03/sql-chatbot-langchain">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=sql-chatbot-langchain&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=282c34&hide_border=true" />
+  </a>
 </p>
+
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
