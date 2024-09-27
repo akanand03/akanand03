@@ -87,17 +87,16 @@ I'm open to connecting with professionals and exploring new opportunities. Let's
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akanand03&show_icons=true&theme=radical&hide_border=true" alt="Akshit Anand's GitHub Stats">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanand03&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akanand03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Overview" alt="GitHub Overview"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanand03&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=akanand03&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 
----
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanand03&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top+Languages" alt="Top Languages"/>
+
+</div>
 
