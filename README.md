@@ -63,7 +63,7 @@ Check out some of my top projects that demonstrate my skills in data science and
   <a href="https://github.com/akanand03/sql-chatbot-langchain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=sql-chatbot-langchain&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=1a1b27&hide_border=true" alt="SQL Chatbot with LangChain"/>
   </a>
-  <a href="https://github.com/akanand03/Diabetic_Maculopathy_CNN">
+  <a href="https://github.com/akanand03/Diabetic_Maculopathy_CNN.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akanand03&repo=Diabetic_Maculopathy_CNN&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=1a1b27&hide_border=true" alt="Diabetic Maculopathy using CNN"/>
   </a>
 </p>
