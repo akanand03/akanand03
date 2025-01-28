@@ -23,7 +23,7 @@
 
 
 - 🗣️ **[SQL ChatBot](https://github.com/akanand03/sql-chatbot-langchain)** – AI-powered chatbot for database queries  
-- 🔗 **[Blockchain Loyalty](https://github.com/akanand03/Deal_Dazzle)** – Decentralized rewards system  
+- 🔗 **[Blockchain Loyalty](https://github.com/theknownhorde/Perkpe)** – Decentralized rewards system  
 - 🩺 **[CNN for Medical Diagnosis](https://github.com/akanand03/Diabetic_Maculopathy_CNN)** – AI detecting diseases before doctors do  
 - 💰 **[Flight Price Predictor](https://github.com/akanand03/Flight-price-prediction-)** – ML model to forecast airline prices  
 
