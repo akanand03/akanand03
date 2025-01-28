@@ -1,6 +1,6 @@
 <!-- 🚀 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 </p>
 
 <h1 align="center">👋 Yo, I’m <a href="https://github.com/akanand03">Akshit Anand</a>! </h1>
@@ -21,9 +21,6 @@
 
 ## 🏆 Cool Stuff I’ve Built  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
-</p>
 
 - 🗣️ **[SQL ChatBot](https://github.com/akanand03/sql-chatbot-langchain)** – AI-powered chatbot for database queries  
 - 🔗 **[Blockchain Loyalty](https://github.com/akanand03/Deal_Dazzle)** – Decentralized rewards system  
