@@ -33,10 +33,10 @@
 
 ## ⚙️ Tech Stack  
 
-💻 **Languages**: Python, JavaScript, C++  
+💻 **Languages**: Python, SQL
 🧠 **AI/ML**: TensorFlow, OpenAI API, Scikit-Learn  
-🌐 **Web Dev**: React, Flask, Node.js, MongoDB  
-🚀 **DevOps**: Docker, AWS, CI/CD  
+🌐 **Web Dev**: React, Flask, Node.js, MongoDB, FastAPI
+🚀 **DevOps**: Docker, CI/CD  
 
 ---
 
