@@ -1,83 +1,47 @@
-<!-- 🚀 Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
-</p>
-
-<h1 align="center">👋 Yo, I’m <a href="https://github.com/akanand03">Akshit Anand</a>! </h1>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=150&section=header&text=Akshit%20Anand&fontSize=50&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+</div>
 
 <p align="center">
-  🚀 AI Dev & Full-Stack Wiz | 🧠 ML Enthusiast | 💡 Breaking models & making magic
+  <b>AI Engineer | ML Developer | Full-Stack Builder</b><br>
+  Turning coffee into code and data into decisions
 </p>
 
----
+## 🔮 What I Do
+```python
+def akshit_skills():
+    return {
+        "AI/ML": ["TensorFlow", "Scikit-Learn", "LangChain", "LlamaIndex"],
+        "Backend": ["Python", "Flask", "FastAPI", "Node.js"],
+        "Frontend": ["React", "JavaScript"],
+        "DevOps": ["Docker", "CI/CD", "GitHub Actions"],
+        "Databases": ["MongoDB", "PostgreSQL", "MySQL"]
+    }
+```
 
-## ⚡ What I Do  
+## 🚀 Top Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [SQL ChatBot](https://github.com/akanand03/sql-chatbot-langchain) | Natural language → SQL conversions | LangChain, LLMs, Flask |
+| [Medical CNN](https://github.com/akanand03/Diabetic_Maculopathy_CNN) | AI diagnostics for diabetic maculopathy | TensorFlow, CNN, OpenCV |
+| [Flight Predictor](https://github.com/akanand03/Flight-price-prediction-) | Predict flight prices before they change | Scikit-Learn, Pandas, Flask |
+| [Blockchain Loyalty](https://github.com/theknownhorde/Perkpe) | Decentralized rewards platform | Solidity, Web3.js, React |
 
-- 🚀 **AI-Powered Innovations** – ML, Deep Learning, Generative AI  
-- 💡 **Full-Stack & Automation** – Flask, React, APIs, CI/CD  
-- 🔗 **Web3 & Blockchain** – Smart Contracts, Solidity, NFTs  
+## 📊 GitHub Stats
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akanand03&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanand03&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
----
+## 📫 Connect & Collaborate
+<div align="center">
+  <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akshitanand003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/akanand03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-## 🏆 Cool Stuff I’ve Built  
-
-
-- 🗣️ **[SQL ChatBot](https://github.com/akanand03/sql-chatbot-langchain)** – AI-powered chatbot for database queries  
-- 🔗 **[Blockchain Loyalty](https://github.com/theknownhorde/Perkpe)** – Decentralized rewards system  
-- 🩺 **[CNN for Medical Diagnosis](https://github.com/akanand03/Diabetic_Maculopathy_CNN)** – AI detecting diseases before doctors do  
-- 💰 **[Flight Price Predictor](https://github.com/akanand03/Flight-price-prediction-)** – ML model to forecast airline prices  
-
-👉 **More projects?** [Check my GitHub](https://github.com/akanand03)  
-
----
-
-## ⚙️ Tech Stack  
-
-💻 **Languages**: Python, SQL  
-🧠 **AI/ML & GenAI**: TensorFlow, Scikit-Learn, OpenAI API, LangChain, LlamaIndex  
-🌐 **Web Development**: React, Flask, FastAPI, Node.js, MongoDB  
-🗄️ **Databases**: MongoDB, MySQL, PostgreSQL  
-🚀 **DevOps & Deployment**: Docker, CI/CD (GitHub Actions, Jenkins)  
-
----
-
-## 🚀 GitHub Insights & Cool Stats  
-
-### **📊 Contribution Graph**
-<!-- Dynamic GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanand03&theme=radical" alt="GitHub Contribution Graph">
-</p>
-
-### **🔥 GitHub Overview**
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akanand03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanand03&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
-
-### **🏆 GitHub Trophies**
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akanand03&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies">
-</p>
-
----
-
-## 📲 Hit Me Up  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshit-anand-b2080621a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:akshitanand003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/akanand03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-🔥 **Let’s collab, break stuff & build something dope.** 💡💻
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=100&section=footer" width="100%"/>
+</div>
