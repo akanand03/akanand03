@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <b>AI Engineer | ML Developer | Full-Stack Builder</b><br>
+  <b>AI Engineer | ML Developer | Data Analyst</b><br>
   Turning coffee into code and data into decisions
 </p>
 
